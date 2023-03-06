@@ -1,7 +1,7 @@
 # cálculo-prejuízo
 
 
-Como primeiro código feito, tem muito erros, mas é para o meu aprendizado. 
+Como primeiro código feito, têm muito erros, mas é para o meu aprendizado. 
 
 
 Esse código tem como base, em você relatar o seu salário e dizer os valores dos prejuízos que têm para pagar. (Uma escolha de até 10 itens)
