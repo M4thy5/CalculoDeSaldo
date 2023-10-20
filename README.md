@@ -5,6 +5,10 @@ A Calculadora de Prejuízos e Saldo é um programa simples em Python que permite
 
 ## Funcionalidades
 - Solicita o nome do usuário.
+- Verifica a primeira letra do nome do usuário:
+  - Se a primeira letra for "G" ou "M", exibe uma mensagem de boas-vindas personalizada.
+  # Podendo mudar essa letra
+  - Caso contrário, exibe uma mensagem de boas-vindas padrão.
 - Solicita o saldo bancário do usuário.
 - Solicita o número de prejuízos que o usuário deseja calcular.
 - Calcula o valor total do prejuízo com base nos prejuízos fornecidos.
