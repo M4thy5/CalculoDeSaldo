@@ -1,10 +1,53 @@
-# CalculoDeSaldo
+Claro, vou criar um README.md com base no código que você forneceu:
 
+# Calculadora de Prejuízos e Saldo
 
-Este é meu primeiro código e sei que ele tem muitos erros, mas estou usando-o para aprender.
+## Descrição
+A Calculadora de Prejuízos e Saldo é um programa simples em Python que permite que o usuário insira seu nome, saldo bancário e informações sobre prejuízos. Com base no número de prejuízos, o programa calcula o valor total do prejuízo e o saldo restante na conta do usuário.
 
-A ideia por trás deste código é permitir que você informe seu salário e os valores das despesas que você tem que pagar (com a opção de até 10 itens). O código calculará o resultado, indicando se você tem um saldo negativo.
+## Funcionalidades
+- Solicita o nome do usuário.
+- Solicita o saldo bancário do usuário.
+- Solicita o número de prejuízos que o usuário deseja calcular.
+- Calcula o valor total do prejuízo com base nos prejuízos fornecidos.
+- Exibe o saldo restante na conta do usuário após o cálculo do prejuízo.
 
-Além disso, ele personaliza a saudação com base no seu nome, fornecendo uma mensagem mais acolhedora se seu nome começar com "M" ou "G". Caso contrário, você receberá uma saudação simples, que pode ser personalizada conforme necessário.
+## Uso
+1. Clone este repositório em sua máquina:
 
-Observe que o código está em constante aprimoramento e pode ser modificado de acordo com as necessidades.
+   ```bash
+   git clone https://github.com/seu-usuario/CalculadoraDePrejuizos.git
+   ```
+
+2. Navegue até o diretório clonado:
+
+   ```bash
+   cd CalculadoraDePrejuizos
+   ```
+
+3. Execute o programa:
+
+   ```bash
+   python calculadora.py
+   ```
+
+4. Siga as instruções para inserir seu nome, saldo bancário e prejuízos a serem calculados.
+
+## Exemplo de Uso
+```python
+Qual o seu nome completo ou o nome e sobrenome? Seu Nome
+Bem-vindo(a)!
+Saldo no banco: 1000.00
+Quantos itens/prejuízos você tem para pagar? 3
+
+Valor do 1° item/prejuízo: 250.00
+Valor do 2° item/prejuízo: 100.00
+Valor do 3° item/prejuízo: 50.00
+
+Seu prejuízo será de R$ 400.0
+Seu saldo é de R$ 1000.0 e ficará R$ 600.0
+Seu saldo está positivo (R$ 600.0).
+```
+
+## Autor
+[Matheus.ptes](https://github.com/M4thy5)
