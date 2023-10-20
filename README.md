@@ -34,4 +34,4 @@ Seu saldo está positivo (R$ 600.0).
 ```
 
 ## Autor
-[Matheus.ptes](https://github.com/M4thy5)
+[Mathxz.ptes](https://github.com/M4thy5)
