@@ -1,5 +1,3 @@
-Claro, vou criar um README.md com base no código que você forneceu:
-
 # Calculadora de Prejuízos e Saldo
 
 ## Descrição
@@ -13,25 +11,7 @@ A Calculadora de Prejuízos e Saldo é um programa simples em Python que permite
 - Exibe o saldo restante na conta do usuário após o cálculo do prejuízo.
 
 ## Uso
-1. Clone este repositório em sua máquina:
-
-   ```bash
-   git clone https://github.com/seu-usuario/CalculadoraDePrejuizos.git
-   ```
-
-2. Navegue até o diretório clonado:
-
-   ```bash
-   cd CalculadoraDePrejuizos
-   ```
-
-3. Execute o programa:
-
-   ```bash
-   python calculadora.py
-   ```
-
-4. Siga as instruções para inserir seu nome, saldo bancário e prejuízos a serem calculados.
+Siga as instruções para inserir seu nome, saldo bancário e prejuízos a serem calculados.
 
 ## Exemplo de Uso
 ```python
